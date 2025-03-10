@@ -1,4 +1,4 @@
-# subdomain-finder_jak-soc
+# subdomain-finder
 Subdomain Finder 🔍 A fast and efficient subdomain enumeration tool that helps identify subdomains using multiple techniques: 
 ✅ Passive enumeration (via APIs like VirusTotal, Shodan, SecurityTrails, Censys, etc.) 
 ✅ Active brute-force using a wordlist 
